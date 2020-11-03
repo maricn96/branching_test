@@ -1,4 +1,1 @@
-fajl za upload na master
-
-
-featuretransakcije
+fajl za upload na develop granu preko feature brancha
